@@ -1,0 +1,14 @@
+h1 {
+    background-color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-size: 150px;
+    font-weight: bold;
+}
+
+#links{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    background-color: yellow;
+    font-weight: bold;
+}
